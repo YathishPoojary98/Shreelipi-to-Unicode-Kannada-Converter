@@ -64,6 +64,6 @@ python shreelipi_to_unicode.py input.txt > output.txt
 
 ## 🔗 Related Projects
 
-- **Unicode-Kannada-to-Shreelipi Converter** – [View Repository](https://github.com/YathishPoojary98/Unicode-Kannada-to-Shreelipi-Converter)
+- **Unicode-Kannada-to-Shreelipi Converter** – [View Repository](https://github.com/YathishPoojary98/Unicode-Kannada-to-Shreelipi-Convertor)
 
 ---
